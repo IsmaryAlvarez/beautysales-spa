@@ -16,6 +16,7 @@ body {
 
 .tabs .tab a {
   color: #FFF;
+  padding: 0 20px;
 }
 
 .main-content {
